@@ -24,6 +24,3 @@ pub fn rotate(infile: String, outfile: String, amount: i32) {
         }
     }
 }
-
-
-
